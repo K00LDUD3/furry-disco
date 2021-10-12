@@ -60,7 +60,7 @@ def confirm_login(username, password):
 
 change_pass('tanush')
 
-flag = True
+# flag = True
 while flag:
     username = input('Enter username: ')
     password = input('Enter password: ')
