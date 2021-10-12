@@ -59,7 +59,7 @@ def confirm_login(username, password):
         
 
 change_pass('tanush')
-'''
+
 flag = True
 while flag:
     username = input('Enter username: ')
@@ -75,4 +75,3 @@ while flag:
             continue
     else:
         print('Passwords do not match! Try again.')
-        '''
